@@ -1,0 +1,12 @@
+- web scraping is not support all web page
+  1. research  
+- model is pattern search not understand to pracmatic 
+  1. deep graph in transformers
+- the api is called thruogh google , which take a long time 
+  1. train new speech recognition and apply to tts 
+- key search is not understand in meaning 
+  1. NER modle for extract key in sequence 
+  2. remove Stop Word on sequence 
+  3. rulebase 
+
+
